@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adria
-- 👀 I’m currently looking to collaborate on a new project idea about a recommendation platform
+- 👀 I’m currently looking for a programer on a new project idea about a recommendation platform
 - 📫 Contact me adriabg02@gmail.com
 
 <!---
